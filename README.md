@@ -14,5 +14,5 @@ Any questions or feedback are greatly appreciated, and if you have any questions
 
 #### Requirements
 1. Basic knowledge of Pytorch
-  - some great tutorials are provided at <https://github.com/yunjey/pytorch-tutorial>
+    - some great tutorials are provided at <https://github.com/yunjey/pytorch-tutorial>
 2. Pytorch, Torchtext and Spacy installed
